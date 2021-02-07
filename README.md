@@ -1,2 +1,1 @@
 # pylearn
-Learning Python.
